@@ -1,0 +1,17 @@
+C:\Users\mokel\source\repos\BellarmineFinancials\bin\Debug\net6.0-windows\BellarmineFinancials.exe
+C:\Users\mokel\source\repos\BellarmineFinancials\bin\Debug\net6.0-windows\BellarmineFinancials.deps.json
+C:\Users\mokel\source\repos\BellarmineFinancials\bin\Debug\net6.0-windows\BellarmineFinancials.runtimeconfig.json
+C:\Users\mokel\source\repos\BellarmineFinancials\bin\Debug\net6.0-windows\BellarmineFinancials.dll
+C:\Users\mokel\source\repos\BellarmineFinancials\bin\Debug\net6.0-windows\BellarmineFinancials.pdb
+C:\Users\mokel\source\repos\BellarmineFinancials\obj\Debug\net6.0-windows\BellarmineFinancials.csproj.AssemblyReference.cache
+C:\Users\mokel\source\repos\BellarmineFinancials\obj\Debug\net6.0-windows\BellarmineFinancials.Form1.resources
+C:\Users\mokel\source\repos\BellarmineFinancials\obj\Debug\net6.0-windows\BellarmineFinancials.csproj.GenerateResource.cache
+C:\Users\mokel\source\repos\BellarmineFinancials\obj\Debug\net6.0-windows\BellarmineFinancials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mokel\source\repos\BellarmineFinancials\obj\Debug\net6.0-windows\BellarmineFinancials.AssemblyInfoInputs.cache
+C:\Users\mokel\source\repos\BellarmineFinancials\obj\Debug\net6.0-windows\BellarmineFinancials.AssemblyInfo.cs
+C:\Users\mokel\source\repos\BellarmineFinancials\obj\Debug\net6.0-windows\BellarmineFinancials.csproj.CoreCompileInputs.cache
+C:\Users\mokel\source\repos\BellarmineFinancials\obj\Debug\net6.0-windows\BellarmineFinancials.dll
+C:\Users\mokel\source\repos\BellarmineFinancials\obj\Debug\net6.0-windows\refint\BellarmineFinancials.dll
+C:\Users\mokel\source\repos\BellarmineFinancials\obj\Debug\net6.0-windows\BellarmineFinancials.pdb
+C:\Users\mokel\source\repos\BellarmineFinancials\obj\Debug\net6.0-windows\BellarmineFinancials.genruntimeconfig.cache
+C:\Users\mokel\source\repos\BellarmineFinancials\obj\Debug\net6.0-windows\ref\BellarmineFinancials.dll
